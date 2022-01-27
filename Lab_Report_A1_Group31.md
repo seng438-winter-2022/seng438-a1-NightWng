@@ -6,10 +6,10 @@
 
 ## Student Names:
 
-  ### Aashik Ilangovan (30085993)
-  ### Emmanuel Omari-Osei (30092729)
-  ### Gibran Akmal (30094918)
-  ### Priyanka Gautam (30091244)
+  ### Aashik Ilangovan
+  ### Emmanuel Omari-Osei
+  ### Gibran Akmal
+  ### Priyanka Gautam
 
 ## Group Number: 31
 
