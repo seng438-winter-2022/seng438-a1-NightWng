@@ -58,8 +58,11 @@ operation is functional on regular use.
 Development of Test Cases: We will test the most common paths for a user
 using the ATM. For instance, a user using an ATM to withdraw cash or
 deposit money. Common real-life experiences with ATMs will be used in
-developing test cases. Comparison of Exploratory and Manual Functional
-Testing (MFT) One key benefit to Scripted Testing is that it follows a
+developing test cases.
+
+## Comparison of Exploratory and Manual Functional Testing (MFT)
+
+One key benefit to Scripted Testing is that it follows a
 set path that has been designed and reviewed in advance. Since the
 script includes well-documented test cases and test steps that, with no
 deviation from the path laid out in the script, tests can be run in an
@@ -87,7 +90,9 @@ testing is more effective in detecting more functional defects/bugs. To
 get the most effective test, one should apply both scripted and
 exploratory testing to maximize the number of defects found.
 
-Notes and Discussion Surrounding Peer-Reviews After examining each
+## Notes and Discussion Surrounding Peer-Reviews
+
+After examining each
 pair's defect report and looking at the bugs documented by each group,
 not only were common defects observed between both groups, but also
 there were bugs found by one pair that the other pair had not detected.
@@ -99,15 +104,22 @@ high-level testing description and applied it in their tests. Given each
 pairs' unique outlook on the exploratory testing, each group discovered
 new bugs that had not yet been found. For this testing approach, for
 example, one group explored the Money Market account type, while the
-other focused on the end user's illegal inputs. However, in MFT testing,
+other focused on the end user's illegal inputs.
+
+However, in MFT testing,
 even though each pair followed the same testing suite, one pair found
 bugs that the other pair had not discovered and vice versa. This is due
 to the fact that "no two times of the system running are the same." Each
 time a system runs, it might have different bugs depending on what
-environment it is running in. The different types of environment that
+environment it is running in.
+
+The different types of environment that
 could have impacted the MFT test suite are different operating systems,
 the computer's storage space, and the memory available for the system.
-How Pair Testing was Managed and How Teamwork was Divided Teamwork is a
+
+## How Pair Testing was Managed and How Teamwork was Divided
+
+Teamwork is a
 fundamental core part of software testing. We split into groups of two
 in this lab to conduct paired testing on the same software. Both pairs
 implemented the same testing methods, allowing for a more comprehensive
@@ -121,8 +133,9 @@ The members in the pairs switched roles so that both partners could get experien
 
 Teamwork is incredibly important in software development as "teamwork makes the dream work." Learning how to work in a team is imperative for engineers across all disciplines because it introduces them to varying new perspectives that only strengthen the final product. One of the key lessons that we learned about teamwork is that open communication, transparency and hard work are the foundations of any successful group. 
   
+## Difficulties, Challenges, and Lessons from the Lab
 
-Difficulties, Challenges, and Lessons from the Lab Over the course of
+Over the course of
 this lab, there were some challenges that we had to face together as a
 team.
 
@@ -132,7 +145,9 @@ This lab's more significant challenges and difficulties came from discerning wha
 
 Another benefit of our cooperation as a team was being able to note errors in the program that other members missed or had not encountered. This emphasized the importance of "over the shoulder" testing, as it offered diverse perspectives on tests performed, resulting in a more comprehensive test. The more thorough our testing, the better it is for the program, as more undiscovered bugs are detected. These lessons will surely be remembered in future projects as it will serve to save project costs and impede the release of faulty programs. 
 
-Comments/Feedback Overall, the lab detailed a simple yet insightful
+## Comments/Feedback
+
+Overall, the lab detailed a simple yet insightful
 experience in real-world testing. The experience induced a healthy
 working environment that explored not only our previous knowledge of the
 course material but more importantly our ability to cooperate in group
